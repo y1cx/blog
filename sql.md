@@ -426,3 +426,5 @@ JOIN
 ON e.country = i.country
 ORDER BY e.country ASC
 ```
+
+#### PIVOT
